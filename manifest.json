@@ -1,0 +1,13 @@
+{
+  "name": "淘宝秒杀",
+  "version": "1.0",
+  "manifest_version": 2,
+  "description": "实在受不了那些个用秒杀器的了，我也要秒杀",
+  "browser_action": {
+    "default_icon": "images/icon.png",
+    "default_popup": "popup.html"
+  },
+  "permissions": [
+    "tabs"
+  ]
+}

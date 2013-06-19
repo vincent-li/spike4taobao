@@ -1,0 +1,21 @@
+.miao{
+    background-image: url('../images/miaosha.gif');
+    background-repeat: no-repeat;
+    width:200px;
+    height: 180px;
+    text-align: center;
+    position: relative;
+}
+
+.miao > .oper{
+    position: absolute;
+    vertical-align: middle;
+    text-align: center;
+}
+.miao > .oper label{
+    white-space: nowrap;
+}
+
+.display-none{
+    display: none;
+}
